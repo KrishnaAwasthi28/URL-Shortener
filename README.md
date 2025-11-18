@@ -71,14 +71,6 @@ short_code (VARCHAR)
   <li>Frontend runs on <strong>http://localhost:5173</strong></li>
 </ul>
 
-<h2>📸 Screenshots</h2>
-<p>You can add screenshots here:</p>
-<ul>
-  <li>Home Page UI</li>
-  <li>Working Short URL</li>
-  <li>Database Row Example</li>
-</ul>
-
 <h2>📈 Future Enhancements</h2>
 <ul>
   <li>Click Tracking (count how many times a link is opened)</li>
@@ -89,3 +81,4 @@ short_code (VARCHAR)
 
 <h2>💛 Author</h2>
 <p>Developed by <strong>Krishna Awasthi</strong></p>
+
